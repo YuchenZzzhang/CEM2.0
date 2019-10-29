@@ -1,0 +1,12 @@
+name: cem_tool2
+title: CEM_Tool
+username: yzhang30
+account: yzhang30
+server: w0lxpjekins05.worldbank.org
+hostUrl: http://w0lxpjekins05.worldbank.org:3939/__api__
+appId: 440
+bundleId: 1980
+url: http://w0lxpjekins05.worldbank.org:3939/content/440/
+when: 1572375288.52295
+asMultiple: FALSE
+asStatic: FALSE
